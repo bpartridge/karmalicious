@@ -1,0 +1,14 @@
+{
+  "name": "karmalicious",
+  "description": "Allows website visitors to promote the current page on the referring website.",
+  "version": "0.0.0",
+  "author": "Brenton Partridge <bapartridge@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bpartridge/karmalicious.git"
+  },
+  "main": "./karmalicious.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
